@@ -1,11 +1,11 @@
-# objio (object + io)
+# obj-io (object + io)
 
 A JavaScript object getter and setter with string literals ⚡
 
 ## Usage
 
 ```js
-import { get, set } from 'objio';
+import { get, set } from 'obj-io';
 
 const obj = {
   a: 1,
