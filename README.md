@@ -2,13 +2,15 @@
 
 A JavaScript object getter and setter with string literals ⚡
 
-<a aria-label="NPM version" href="https://www.npmjs.com/package/objectio">
-  <img src="https://img.shields.io/npm/v/objectio.svg?style=for-the-badge&labelColor=000000" alt="NPM version">
-</a>
-<a aria-label="NPM downloads" href="https://www.npmjs.com/package/objectio">
-  <img src="https://img.shields.io/npm/dt/objectio.svg?style=for-the-badge&labelColor=000000" alt="NPM downloads">
-</a>
-<img src="https://img.shields.io/github/license/saltyshiomix/objectio.svg?style=for-the-badge&labelColor=000000" alt="Package License (MIT)">
+<p align="left">
+  <a aria-label="NPM version" href="https://www.npmjs.com/package/objectio">
+    <img src="https://img.shields.io/npm/v/objectio.svg?style=for-the-badge&labelColor=000000" alt="NPM version">
+  </a>
+  <a aria-label="NPM downloads" href="https://www.npmjs.com/package/objectio">
+    <img src="https://img.shields.io/npm/dt/objectio.svg?style=for-the-badge&labelColor=000000" alt="NPM downloads">
+  </a>
+  <img src="https://img.shields.io/github/license/saltyshiomix/objectio.svg?style=for-the-badge&labelColor=000000" alt="Package License (MIT)">
+</p>
 
 ## Usage
 
