@@ -1,6 +1,6 @@
 {
   "name": "objectio",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A JavaScript object getter and setter with string literals ⚡",
   "repository": "git@github.com:saltyshiomix/objectio.git",
   "author": "Shiono Yoshihide <shiono.yoshihide@gmail.com>",
