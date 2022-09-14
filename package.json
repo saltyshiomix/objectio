@@ -5,7 +5,9 @@
     "build": "rollup -c && tsc",
     "prepublishOnly": "NODE_ENV=production npm run build"
   },
-  "dependencies": {},
+  "dependencies": {
+    "jmespath": "0.16.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.19.1",
     "@rollup/plugin-typescript": "^8.5.0",
