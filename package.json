@@ -1,6 +1,29 @@
 {
   "name": "objio",
   "version": "0.0.0",
+  "description": "A better object getter and setter with string literals ⚡",
+  "repository": "git@github.com:saltyshiomix/objio.git",
+  "author": "Shiono Yoshihide <shiono.yoshihide@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/saltyshiomix/objio",
+  "keywords": [
+    "javascript",
+    "object",
+    "string-literal",
+    "literals",
+    "accessor",
+    "getter",
+    "setter"
+  ],
+  "bugs": {
+    "url": "https://github.com/saltyshiomix/objio/issues",
+    "email": "shiono.yoshihide@gmail.com"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
   "scripts": {
     "build": "rollup -c && tsc",
     "prepublishOnly": "NODE_ENV=production npm run build"
